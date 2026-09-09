@@ -1,0 +1,16 @@
+tuple=(1,2,3,4,5,6,7,8,9,10)
+print(tuple)
+print(len(tuple))
+largest=max(tuple)
+print(largest)
+smallest=min(tuple)
+print(smallest)
+
+fruit=('apple','bannana','orange','grapes','mango','kiwi')
+print(fruit)
+print(fruit[0])
+print(fruit[0:5])
+print(fruit[2:4])
+print(fruit[2::4])
+print(fruit[1:6:2])
+            
